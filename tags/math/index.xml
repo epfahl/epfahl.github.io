@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>math on Terminal</title>
-    <link>epfahl.github.io/tags/math/</link>
+    <link>https://epfahl.github.io/tags/math/</link>
     <description>Recent content in math on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2020 16:21:56 -0500</lastBuildDate><atom:link href="epfahl.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Nov 2020 16:21:56 -0500</lastBuildDate><atom:link href="https://epfahl.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>epfahl.github.io/posts/first/</link>
+      <link>https://epfahl.github.io/posts/first/</link>
       <pubDate>Fri, 06 Nov 2020 16:21:56 -0500</pubDate>
       
-      <guid>epfahl.github.io/posts/first/</guid>
+      <guid>https://epfahl.github.io/posts/first/</guid>
       <description>Adding some new text to test deployment.
 Holy crap! A post! A post?
 Here&amp;rsquo;s some code:
