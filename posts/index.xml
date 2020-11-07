@@ -13,7 +13,8 @@
       <pubDate>Fri, 06 Nov 2020 16:21:56 -0500</pubDate>
       
       <guid>epfahl.github.io/posts/first/</guid>
-      <description>Holy crap! A post! A post?
+      <description>Adding some new text to test deployment.
+Holy crap! A post! A post?
 Here&amp;rsquo;s some code:
 def inc(x): return x + 1 Try collapsing this code block:
 python Click me!    def inc(x): return x &amp;#43; 1   Here&amp;rsquo;s some math:
