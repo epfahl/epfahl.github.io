@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Nov 2020 16:21:56 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>/posts/first/</link>
+      <pubDate>Fri, 06 Nov 2020 16:21:56 -0500</pubDate>
+      
+      <guid>/posts/first/</guid>
+      <description>Holy crap! A post! A post?
+Here&amp;rsquo;s some code:
+def inc(x): return x + 1 Try collapsing this code block:
+python Click me!    def inc(x): return x &amp;#43; 1   Here&amp;rsquo;s some math:
+$$ \int_{a}^{b}dx \, x = \frac{1}{2}\left(b^2 - a^2\right)~. $$</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 06 Nov 2020 14:37:11 -0500</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi, I&amp;rsquo;m Eric. This is my blog.</description>
+    </item>
+    
+  </channel>
+</rss>
