@@ -13,12 +13,10 @@
       <pubDate>Fri, 06 Nov 2020 16:21:56 -0500</pubDate>
       
       <guid>/posts/first/</guid>
-      <description>Adding some new text to test deployment.
-Holy crap! A post! A post?
+      <description>Holy crap! A post! A post? This is a test to see if I can deploy this thing, that the pages redner, and that text, code, and equations look okay. Lot&amp;rsquo;s more to come. Might burn it down and start over once all this is actually working.
 Here&amp;rsquo;s some code:
 def inc(x): return x + 1 Try collapsing this code block:
-python Click me!    def inc(x): return x &amp;#43; 1   Here&amp;rsquo;s some math:
-$$ \int_{a}^{b}dx \, x = \frac{1}{2}\left(b^2 - a^2\right)~. $$</description>
+python Click me!    def inc(x): return x &amp;#43; 1   Here&amp;rsquo;s some math:</description>
     </item>
     
   </channel>
