@@ -1,38 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Terminal</title>
+    <title>Tags on Essential Toils</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Terminal</description>
+    <description>Recent content in Tags on Essential Toils</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2020 14:28:35 -0500</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>math</title>
-      <link>/tags/math/</link>
-      <pubDate>Sat, 07 Nov 2020 14:28:35 -0500</pubDate>
-      
-      <guid>/tags/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>other</title>
-      <link>/tags/other/</link>
-      <pubDate>Sat, 07 Nov 2020 14:28:35 -0500</pubDate>
-      
-      <guid>/tags/other/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>science</title>
-      <link>/tags/science/</link>
-      <pubDate>Sat, 07 Nov 2020 14:28:35 -0500</pubDate>
-      
-      <guid>/tags/science/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

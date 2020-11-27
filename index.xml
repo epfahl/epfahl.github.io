@@ -1,40 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>Essential Toils</title>
     <link>/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on Essential Toils</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2020 14:28:35 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Another sweet release</title>
-      <link>/posts/second/</link>
-      <pubDate>Sat, 07 Nov 2020 14:28:35 -0500</pubDate>
-      
-      <guid>/posts/second/</guid>
-      <description>This is a test. Hope you liked it!</description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>/posts/first/</link>
-      <pubDate>Fri, 06 Nov 2020 16:21:56 -0500</pubDate>
-      
-      <guid>/posts/first/</guid>
-      <description>Holy crap! A post! A post? This is a test to see if I can deploy this thing, that the pages redner, and that text, code, and equations look okay. Lot&amp;rsquo;s more to come. Might burn it down and start over once all this is actually working.
-Here&amp;rsquo;s some code:
-def inc(x): return x + 1 Try collapsing this code block:
-python Click me!    def inc(x): return x &amp;#43; 1   Here&amp;rsquo;s some math:</description>
-    </item>
-    
-    <item>
-      <title>About</title>
+      <title>About me</title>
       <link>/about/</link>
-      <pubDate>Fri, 06 Nov 2020 14:37:11 -0500</pubDate>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Hi, I&amp;rsquo;m Eric. This is my blog.</description>
+      <description>Hi friends, I’m Eric.
+In my 20-ish year professional life, I’ve been an astrophysicist, defense researcher, data scientist, software developer, manager, and startup co-founder. At home, I’m a husband, dad, video gamer, and occasional guitar noodler. I get pleasure out of asking questions and learning new things, and I love to share what I’ve learned.
+My mission here is to write about subjects I enjoy in a way that I think might be somewhat engaging and accessible.</description>
     </item>
     
   </channel>
